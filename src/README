@@ -1,0 +1,5 @@
+Program information: 
+  
+     The first applet Mickey tests 3 files named Circle(creates the circle), Point(finds the location), and Shape(used to find the circle and point). It tests the files by asking what happens if a certain name or color is inputted into the test. As a result the applet should display 3 black circles which resemble Mickey Mouse. On the applet there should be some text relating to the location and radius of the circles. 
+ 
+     The second applet creates a green house with black outlines. It should have a red framed door and a red framed doorknob. On top of the house is a red chimney and there are also windows to the left and the right of the orange door. There are shape files that contribute to the making of this house such as rectangle,square,line,triangle etc. Below the house there should be text relating to information on how the part of the house is made and also given is the location of those parts.   
